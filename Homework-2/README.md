@@ -1,1 +1,1 @@
-This folder contains files for homework-2. Please dont copy it for your homework.
+This folder contains the R code file and pdf of the second homework. Please don't copy for your assignment/homework.
